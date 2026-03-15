@@ -1,7 +1,15 @@
-tr:selector:nth-child(even){
-  border: 2px solid black;
-  padding:10px;
-  margin: 10px;
+table {
+  border-collapse: collapse; /* This prevents double borders */
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+tr:selector:nth-child(even) {
   background-color:pink;
 }
 
