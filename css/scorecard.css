@@ -1,4 +1,4 @@
-div:selector:nth-child(even){
+tr:selector:nth-child(even){
   border: 2px solid black;
   padding:10px;
   margin: 10px;
