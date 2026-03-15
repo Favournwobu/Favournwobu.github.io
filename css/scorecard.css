@@ -8,7 +8,7 @@ th, td {
   text-align: left;
 }
 
-tr:selector:nth-child(even) {
+tr:nth-child(even) {
   background-color:pink;
 }
 
