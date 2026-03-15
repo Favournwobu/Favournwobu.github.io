@@ -1,6 +1,8 @@
-selector:pseudo-class-name {
+<style>
+selector:selector:nth-child(even){
   border: 2px solid black;
   padding:10px;
   margin: 10px;
   background-color:pink;
 }
+</style>
