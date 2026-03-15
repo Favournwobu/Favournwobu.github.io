@@ -8,6 +8,10 @@ th, td {
   text-align: left;
 }
 
+th {
+  background-color: black;
+  color: white;
+}
 tr:nth-child(even) {
   background-color:pink;
 }
