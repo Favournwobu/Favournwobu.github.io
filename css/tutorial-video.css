@@ -9,8 +9,9 @@ h1 {
 }
 img {
   float:left;
+  width:100px;
 }
 div {
-  overflow:auto
+  overflow:auto;
   clear:left;
 }
