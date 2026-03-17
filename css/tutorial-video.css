@@ -1,6 +1,9 @@
+/*sets image size to a 16:9 aspect ratio*/
 div.video {
-  width="300" height="168.75";
+  width: 300px;
+  height: 168.75;
   }
+/*centers the main heading and provides a blue background*/
 h1 {
   display:flex;
   justify-content:center;
