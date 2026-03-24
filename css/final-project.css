@@ -130,6 +130,6 @@ tr:nth-child(odd) {
   margin: 0 auto;
 }
   .work-item:hover {
-    transform:scale(.5)
+    transform:scale(.2)
   }
 
