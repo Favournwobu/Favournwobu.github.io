@@ -43,6 +43,9 @@ table, tr, td, th {
   padding: 8px;
   text-align: left;
 }
+div.table {
+  overflow:auto;
+}
 table {
   border-collapse: collapse;
   transform:scale(150%)
