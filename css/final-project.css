@@ -129,7 +129,7 @@ tr:nth-child(odd) {
   max-width: 1200px;
   margin: 0 auto;
 }
-  .work-item img:hover {
+  .work-item:hover {
     transform:scale(3)
   }
 
