@@ -11,16 +11,14 @@ ul {
   margin: auto;
   padding: 10px;
   overflow: hidden;
-  background-color: #7F00FF;
-  display:flex;
-  width:100px;
-  gap:15px;
 }
 
 ul li {
   float: left;
 }
-
+li {
+  background-color: #7F00FF;
+}
 ul li a {
   display: block;
   color: white;
