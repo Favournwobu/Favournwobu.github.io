@@ -9,19 +9,19 @@ h1 {
   color:white;
   font-size:80px;
 }
-.bar ul {
+ul.bar  {
   list-style-type: none;
   margin: auto;
   padding: 10px;
   overflow: hidden;
 }
 
-.bar ul li {
+ul.bar  li {
   float: left;
   background-color: #513653;
   border-radius:10px
 }
-.bar ul li a {
+ul.bar  li a {
   display: block;
   color: white;
   text-align: center;
