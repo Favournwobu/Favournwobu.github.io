@@ -19,7 +19,7 @@ ul.bar  {
 ul.bar  li {
   float: left;
   background-color: #513653;
-  border-radius:10px
+  border-radius:10px /*rounds the corners of element*/
 }
 ul.bar  li a {
   display: block;
@@ -43,7 +43,7 @@ table, tr, td, th {
   padding: 8px;
   text-align: left;
 }
-table {
+table { /*sets the border and margin  of the table*/
   border-collapse: collapse;
   transform:scale(150%)
   margin-left: 200px;
@@ -69,7 +69,7 @@ tr:nth-child(odd) {
   max-width: 1200px;
   margin: 0 auto;
 }
-  .work-item:hover {
+  .work-item:hover { /*increases image visibility when the cursor hovers over the image*/
     transform:scale(1.5)
   }
 
