@@ -49,6 +49,7 @@ div.table {
 table {
   border-collapse: collapse;
   transform:scale(150%)
+  margin-left: 200px;
 }
 th {
   background-color: #513653;
