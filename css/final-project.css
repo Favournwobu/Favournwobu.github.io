@@ -58,18 +58,6 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   background-color:#CF9FFF;
 }
-.gallery-container {
-  padding:40px 20px;
-  text-align:center;
-}
-.works-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); 
-  gap: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
-  grid-template-columns: 1fr;
-}
   h1 {
   background-image:url("../images-folder/header-gradient.jpg");
   background-position:center;
