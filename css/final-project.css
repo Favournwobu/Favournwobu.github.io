@@ -58,66 +58,6 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   background-color:#CF9FFF;
 }
-  h1 {
-  background-image:url("../images-folder/header-gradient.jpg");
-  background-position:center;
-  width:1500px;
-  text-align: center;
-  background-size:auto;
-  margin:0;
-  padding:60px 0px;
-  color:white;
-  font-size:80px;
-}
-ul.bar  {
-  list-style-type: none;
-  margin: auto;
-  padding: 10px;
-  overflow: hidden;
-}
-
-ul.bar  li {
-  float: left;
-  background-color: #513653;
-  border-radius:10px
-}
-ul.bar  li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-family:sans-serif;
-  margin:5px;
-  border-radius:7px;
-}
-
-.bar ul li a:hover {
-  background-color: #CBC3E3;
-}
-p {
-  font-size:30px;
-}
-table, tr, td, th {
-  border: 1px solid black;
-  padding: 8px;
-  text-align: left;
-}
-table {
-  border-collapse: collapse;
-  transform:scale(150%)
-  margin-left: 200px;
-}
-th {
-  background-color: #513653;
-  color: white;
-}
-tr:nth-child(even) {
-  background-color:#CBC3E3;
-}
-tr:nth-child(odd) {
-  background-color:#CF9FFF;
-}
 .gallery-container {
   padding:40px 20px;
   text-align:center;
