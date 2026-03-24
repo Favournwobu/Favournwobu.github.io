@@ -19,8 +19,11 @@ ul li {
   float: left;
 }
 li {
+  display:flex
   background-color: #7F00FF;
-  border-radius:7px;
+  border-radius:10px;
+  gap:20px;
+  
 }
 ul li a {
   display: block;
