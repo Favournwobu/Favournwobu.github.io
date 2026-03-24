@@ -18,7 +18,7 @@ ul {
 
 ul li {
   float: left;
-  background-color: #301934;
+  background-color: #513653;
   border-radius:10px
 }
 ul li a {
@@ -40,4 +40,20 @@ p {
 }
 table, tr, td, th {
   border: 1px solid black;
+  padding: 8px;
+  text-align: left;
 }
+table {
+  border-collapse: collapse;
+}
+th {
+  background-color: #513653;
+  color: white;
+}
+tr:nth-child(even) {
+  background-color:#CBC3E3;
+}
+tr:nth-child(odd) {
+  background-color:#CF9FFF;
+}
+
