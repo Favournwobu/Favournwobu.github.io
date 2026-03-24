@@ -1,5 +1,7 @@
 h1 {
   background-image:url("../images-folder/header-gradient.jpg");
+  background-position:center;
+  width:700px;
   text-align: center;
   background-size:auto;
   margin:0;
