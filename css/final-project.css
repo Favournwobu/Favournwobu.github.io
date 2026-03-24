@@ -71,6 +71,6 @@ tr:nth-child(odd) {
   grid-template-columns: 1fr;
 }
   .work-item img:hover {
-    transform:scaleX(3)
+    transform:scale(3)
   }
 
