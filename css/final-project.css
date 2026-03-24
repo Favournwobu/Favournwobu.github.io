@@ -45,6 +45,7 @@ table, tr, td, th {
 }
 table {
   border-collapse: collapse;
+  transform:scale(150%)
 }
 th {
   background-color: #513653;
