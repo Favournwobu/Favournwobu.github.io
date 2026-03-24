@@ -19,6 +19,7 @@ ul li {
 }
 li {
   background-color: #7F00FF;
+  border-radius:7px;
 }
 ul li a {
   display: block;
