@@ -128,7 +128,6 @@ tr:nth-child(odd) {
   gap: 20px;
   max-width: 1200px;
   margin: 0 auto;
-  grid-template-columns: 1fr;
 }
   .work-item img:hover {
     transform:scale(3)
